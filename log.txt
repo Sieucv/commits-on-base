@@ -3,9 +3,9 @@ feat(config): setup eslint + prettier config
 feat: initialize React app with Vite
 chore: add .gitignore for node_module and build
 docs: create initial README with project goal
-Base will help me retire
-believe in something
-if I had one wish
+feat(ui): build basic header with navigation link
+fix: correct import paths after folder restructure
+refactor: move constants to separate config file
 i wish i were eligible
 im practicing creating commits
 if i succeed
