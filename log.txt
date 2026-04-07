@@ -1,6 +1,6 @@
 feat: add initial project structure with src/ folders
 feat(config): setup eslint + prettier config
-my name is Trí
+feat: initialize React app with Vite
 love Base pặc pặc 
 im from cryptoviet
 Base will help me retire
