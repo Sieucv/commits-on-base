@@ -1,4 +1,4 @@
-i love Base
+1. feat: add initial project structure with src/ folders
 i love Base so much 
 my name is Trí
 love Base pặc pặc 
