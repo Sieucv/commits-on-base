@@ -1,7 +1,7 @@
-feat: add initial project structure with src/ folders
+feat: add initial project structure with src/ folder
 feat(config): setup eslint + prettier config
 feat: initialize React app with Vite
-love Base pặc pặc 
+chore: add .gitignore for node_module and build
 im from cryptoviet
 Base will help me retire
 believe in something
