@@ -1,5 +1,5 @@
-1. feat: add initial project structure with src/ folders
-i love Base so much 
+feat: add initial project structure with src/ folders
+feat(config): setup eslint + prettier config
 my name is Trí
 love Base pặc pặc 
 im from cryptoviet
