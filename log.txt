@@ -8,3 +8,4 @@ fix: correct import paths after folder restructure
 refactor: move constants to separate config file
 test: setup jest + react-testing-library
 chore(deps): install tailwindcss and postcss
+style: apply tailwind base styles globally
