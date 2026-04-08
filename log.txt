@@ -7,3 +7,4 @@ feat(ui): build basic header with navigation link
 fix: correct import paths after folder restructure
 refactor: move constants to separate config file
 test: setup jest + react-testing-library
+chore(deps): install tailwindcss and postcss
