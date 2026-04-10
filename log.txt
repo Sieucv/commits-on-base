@@ -14,3 +14,4 @@ fix(ui): fix z-index conflict on dropdown
 perf: debounce search input handler
 feat(api): create axios instance with baseURL
 feat: implement global error boundary
+docs: add code of conduct file
