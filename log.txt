@@ -12,3 +12,4 @@ style: apply tailwind base style globally
 feat: add responsive mobile menu toggle
 fix(ui): fix z-index conflict on dropdown
 perf: debounce search input handler
+feat(api): create axios instance with baseURL
