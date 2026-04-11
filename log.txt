@@ -7,12 +7,12 @@ feat(ui): build basic header with navigation link
 fix: correct import paths after folder restructure
 refactor: move constants to separate config file
 test: setup jest + react-testing-library
-chore(dep): install tailwindcs and postcs
+chore(dep): install tailwindc and postc
 style: apply tailwind base style globally
 feat: add responsive mobile menu toggle
 fix(ui): fix z-index conflict on dropdown
 perf: debounce search input handler
-feat(api): create axios instance with baseURL
+feat(api): create axio instance with baseURL
 feat: implement global error boundary
 docs: add code of conduct file
 chore: configure husky + lint-staged
@@ -22,3 +22,4 @@ refactor: extract useAuth hook
 test: add auth context unit test
 feat: add theme switcher (light/dark/system)
 style: standardize color variables in tailwind
+feat: implement skeleton loading for list
