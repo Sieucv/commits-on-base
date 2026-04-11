@@ -24,3 +24,4 @@ feat: add theme switcher (light/dark/system)
 style: standardize color variables in tailwind
 feat: implement skeleton loading for list
 fix: resolve hydration mismatch in SSR
+perf: add IntersectionObserver for lazy image
