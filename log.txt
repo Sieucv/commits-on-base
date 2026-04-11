@@ -29,3 +29,4 @@ feat: create reusable Card component
 feat(form): add form validation with zod
 test: write schema validation test for zod
 refactor: centralize form error message
+feat: add toast notification system
