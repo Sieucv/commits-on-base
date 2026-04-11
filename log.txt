@@ -45,3 +45,4 @@ style: improve modal backdrop blur effect
 feat: implement confirm delete dialog
 fix: focus trap inside modal
 feat: add user settings page
+feat(settings): allow changing display name
