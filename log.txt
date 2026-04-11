@@ -36,3 +36,4 @@ feat: implement infinite scroll pagination
 fix: handle empty state in infinite query
 perf: prefetch next page on scroll near bottom
 feat: add sort and filter controls for list
+refactor: extract filter logic to custom hook
