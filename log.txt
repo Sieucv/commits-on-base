@@ -50,3 +50,4 @@ fix: validate username uniqueness on change
 docs: document available env variable
 feat: add 404 not found page
 feat: implement custom error page for 500
+chore: add robots.txt and sitemap.xml
