@@ -44,5 +44,7 @@ feat: add modal dialog component
 style: improve modal backdrop blur effect
 feat: implement confirm delete dialog
 fix: focus trap inside modal
-feat: add user settings page
+feat: add user setting page
 feat(settings): allow changing display name
+fix: validate username uniqueness on change
+docs: document available env variable
