@@ -20,3 +20,4 @@ feat(auth): add protected route wrapper
 fix: prevent flash of unauthenticated content
 refactor: extract useAuth hook
 test: add auth context unit test
+feat: add theme switcher (light/dark/system)
