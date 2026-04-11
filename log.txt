@@ -55,3 +55,5 @@ feat(seo): add meta tags generator component
 fix(seo): dynamic title based on route
 perf: code-split routes with lazy loading
 feat: add service worker for offline support
+chore: configure workbox in vite
+feat: implement PWA manifest
