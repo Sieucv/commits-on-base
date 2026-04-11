@@ -30,3 +30,4 @@ feat(form): add form validation with zod
 test: write schema validation test for zod
 refactor: centralize form error message
 feat: add toast notification system
+fix(toast): auto-dismiss after 5 second
