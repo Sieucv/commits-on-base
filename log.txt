@@ -41,3 +41,5 @@ test: add e2e test for filtering product
 feat: support URL query params for filter
 fix: sync URL params with UI state
 feat: add modal dialog component
+style: improve modal backdrop blur effect
+feat: implement confirm delete dialog
