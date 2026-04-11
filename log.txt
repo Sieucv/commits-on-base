@@ -37,3 +37,4 @@ fix: handle empty state in infinite query
 perf: prefetch next page on scroll near bottom
 feat: add sort and filter controls for list
 refactor: extract filter logic to custom hook
+test: add e2e test for filtering product
