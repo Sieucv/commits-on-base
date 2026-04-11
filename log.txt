@@ -53,3 +53,4 @@ feat: implement custom error page for 500
 chore: add robots.txt and sitemap.xml
 feat(seo): add meta tags generator component
 fix(seo): dynamic title based on route
+perf: code-split routes with lazy loading
