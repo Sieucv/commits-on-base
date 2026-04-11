@@ -27,3 +27,4 @@ fix: resolve hydration mismatch in SSR
 perf: add IntersectionObserver for lazy image
 feat: create reusable Card component
 feat(form): add form validation with zod
+test: write schema validation test for zod
