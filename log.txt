@@ -26,3 +26,4 @@ feat: implement skeleton loading for list
 fix: resolve hydration mismatch in SSR
 perf: add IntersectionObserver for lazy image
 feat: create reusable Card component
+feat(form): add form validation with zod
