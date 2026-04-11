@@ -34,3 +34,4 @@ fix(toast): auto-dismiss after 5 second
 chore(dep): upgrade zod to 3.23
 feat: implement infinite scroll pagination
 fix: handle empty state in infinite query
+perf: prefetch next page on scroll near bottom
