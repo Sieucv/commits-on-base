@@ -63,3 +63,4 @@ feat: add share button with Web Share API
 fix: fallback for browsers without Web Share
 feat: add clipboard copy utility
 style: consistent button hover state
+feat: implement drag-and-drop file upload
