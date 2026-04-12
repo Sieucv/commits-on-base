@@ -58,3 +58,4 @@ feat: add service worker for offline support
 chore: configure workbox in vite
 feat: implement PWA manifest
 test: add lighthouse CI check
+ci: add vercel deployment preview
