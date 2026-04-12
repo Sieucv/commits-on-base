@@ -80,3 +80,4 @@ feat: implement keyboard shortcut
 fix: prevent default on custom shortcut
 feat: add onboarding tour for new user
 feat: support skipping onboarding
+refactor: use localStorage for onboarding state
