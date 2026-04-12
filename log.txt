@@ -66,3 +66,4 @@ style: consistent button hover state
 feat: implement drag-and-drop file upload
 fix(upload): show progress bar during upload
 refactor: create file upload service
+feat: add image preview before upload
