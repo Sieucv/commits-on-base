@@ -78,3 +78,4 @@ feat: add print-friendly stylesheet
 chore: remove console.log statement
 feat: implement keyboard shortcut
 fix: prevent default on custom shortcut
+feat: add onboarding tour for new user
