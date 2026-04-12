@@ -59,3 +59,4 @@ chore: configure workbox in vite
 feat: implement PWA manifest
 test: add lighthouse CI check
 ci: add vercel deployment preview
+feat: add share button with Web Share API
