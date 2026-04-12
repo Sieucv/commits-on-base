@@ -61,3 +61,4 @@ test: add lighthouse CI check
 ci: add vercel deployment preview
 feat: add share button with Web Share API
 fix: fallback for browsers without Web Share
+feat: add clipboard copy utility
