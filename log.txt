@@ -70,3 +70,4 @@ feat: add image preview before upload
 perf: compress images client-side
 feat: support multiple file selection
 fix: clear file input after successful upload
+feat: add activity log viewer
