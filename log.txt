@@ -64,3 +64,4 @@ fix: fallback for browsers without Web Share
 feat: add clipboard copy utility
 style: consistent button hover state
 feat: implement drag-and-drop file upload
+fix(upload): show progress bar during upload
