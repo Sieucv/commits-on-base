@@ -75,3 +75,4 @@ docs: explain activity log format
 feat: implement export data as CSV
 test: add CSV export unit test
 feat: add print-friendly stylesheet
+chore: remove console.log statement
