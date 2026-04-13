@@ -93,3 +93,4 @@ fix: correct date format in changelog
 perf: tree-shake unused lodash import
 chore(dep): remove unused packages
 feat: add dark mode persistence
+fix: sync system preference on load
