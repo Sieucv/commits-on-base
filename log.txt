@@ -86,3 +86,4 @@ fix: submit feedback with user email
 feat: implement rating stars component
 style: animate star fill on hover
 feat: add changelog page
+docs: write changelog for v0.1.0
