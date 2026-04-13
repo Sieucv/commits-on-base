@@ -83,3 +83,4 @@ feat: support skipping onboarding
 refactor: use localStorage for onboarding state
 feat: add feedback form modal
 fix: submit feedback with user email
+feat: implement rating stars component
