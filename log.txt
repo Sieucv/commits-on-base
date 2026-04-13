@@ -85,3 +85,4 @@ feat: add feedback form modal
 fix: submit feedback with user email
 feat: implement rating stars component
 style: animate star fill on hover
+feat: add changelog page
