@@ -96,3 +96,4 @@ feat: add dark mode persistence
 fix: sync system preference on load
 test: add theme persistence test
 feat: implement offline fallback page
+chore: update dependencies to latest secure versions
