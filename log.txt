@@ -84,3 +84,4 @@ refactor: use localStorage for onboarding state
 feat: add feedback form modal
 fix: submit feedback with user email
 feat: implement rating stars component
+style: animate star fill on hover
