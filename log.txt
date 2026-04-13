@@ -98,3 +98,4 @@ test: add theme persistence test
 feat: implement offline fallback page
 chore: update dependencies to latest secure versions
 feat: prepare release v1.0.0
+chore(release): bump version to 1.0.0
