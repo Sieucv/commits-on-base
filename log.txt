@@ -88,3 +88,4 @@ style: animate star fill on hover
 feat: add changelog page
 docs: write changelog for v0.1.0
 ci: automate semantic-release on main
+feat: add version badge in footer
