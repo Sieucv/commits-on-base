@@ -95,3 +95,4 @@ chore(dep): remove unused packages
 feat: add dark mode persistence
 fix: sync system preference on load
 test: add theme persistence test
+feat: implement offline fallback page
